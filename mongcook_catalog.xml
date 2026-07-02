@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-07-01 01:28">
+<yml_catalog date="2026-07-01 00:12">
   <shop>
     <name>Mongcook</name>
     <company>Mongcook Restaurant</company>
@@ -18,731 +18,565 @@
     </categories>
     <offers>
       <offer id="1" available="true">
-        <url>https://mongcook.com/producto/agua-brisa-con-gas</url>
         <name>Agua Brisa con gas</name>
         <price>4900</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8dcea3ee38-115.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="2" available="true">
-        <url>https://mongcook.com/producto/agua-brisa-saborizada-limón-600-ml</url>
         <name>Agua brisa Saborizada, limón 600 ml</name>
         <price>6500</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8dd7747d84-116.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="3" available="true">
-        <url>https://mongcook.com/producto/agua-brisa-saborizada-manzana-600-ml</url>
         <name>Agua brisa Saborizada, Manzana 600 ml</name>
         <price>6500</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8dd7747d84-116.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="4" available="true">
-        <url>https://mongcook.com/producto/agua-brisa-280-ml</url>
         <name>Agua Brisa, 280 ml</name>
         <price>3900</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/696e553dd7ae6-34.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="5" available="true">
-        <url>https://mongcook.com/producto/agua-brisa-600-ml</url>
         <name>Agua Brisa, 600 ml</name>
         <price>4900</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/696e553dd7ae6-34.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="6" available="true">
-        <url>https://mongcook.com/producto/ármalo-en-combo-x-2</url>
         <name>Ármalo en combo X 2</name>
         <price>64500</price>
-        <currencyId>COP</currencyId>
         <categoryId>2</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e950ca02af7-125.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="7" available="true">
-        <url>https://mongcook.com/producto/arma-tu-plato</url>
         <name>Arma tu plato</name>
         <price>26500</price>
-        <currencyId>COP</currencyId>
         <categoryId>3</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8dda24baaf-67.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="8" available="true">
-        <url>https://mongcook.com/producto/arroz-frito</url>
         <name>Arroz frito</name>
         <price>5500</price>
-        <currencyId>COP</currencyId>
         <categoryId>4</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e93dd326576-119.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="9" available="true">
-        <url>https://mongcook.com/producto/camarones</url>
         <name>Camarones</name>
         <price>7500</price>
-        <currencyId>COP</currencyId>
         <categoryId>4</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="10" available="true">
-        <url>https://mongcook.com/producto/camarones-apanados</url>
         <name>Camarones apanados</name>
         <price>18900</price>
-        <currencyId>COP</currencyId>
         <categoryId>5</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69497c181f682-camarones-apandos.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="11" available="true">
-        <url>https://mongcook.com/producto/chop-suey-de-camarones-personal</url>
         <name>Chop suey de camarones, Personal</name>
         <price>23900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="12" available="true">
-        <url>https://mongcook.com/producto/chop-suey-de-camarones-trio</url>
         <name>Chop suey de camarones, Trio</name>
         <price>62900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="13" available="true">
-        <url>https://mongcook.com/producto/chop-suey-de-camarones-familiar</url>
         <name>Chop suey de camarones, Familiar</name>
         <price>82900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="14" available="true">
-        <url>https://mongcook.com/producto/chop-suey-especial-personal</url>
         <name>Chop suey especial, Personal</name>
         <price>22900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e787ef36cd3-78.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="15" available="true">
-        <url>https://mongcook.com/producto/chop-suey-especial-trio</url>
         <name>Chop suey especial, Trio</name>
         <price>57900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e787ef36cd3-78.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="16" available="true">
-        <url>https://mongcook.com/producto/chop-suey-especial-familiar</url>
         <name>Chop suey especial, Familiar</name>
         <price>84900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e787ef36cd3-78.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="17" available="true">
-        <url>https://mongcook.com/producto/chop-suey-pollo-personal</url>
         <name>Chop suey pollo, personal</name>
         <price>18900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e789667bcea-80.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="18" available="true">
-        <url>https://mongcook.com/producto/chop-suey-pollo-trio</url>
         <name>Chop suey pollo, Trio</name>
         <price>48900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e789667bcea-80.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="19" available="true">
-        <url>https://mongcook.com/producto/chop-suey-pollo-familiar</url>
         <name>Chop suey pollo, Familiar</name>
         <price>63900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e789667bcea-80.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="20" available="true">
-        <url>https://mongcook.com/producto/chop-suey-vegetariano-personal</url>
         <name>Chop suey vegetariano, Personal</name>
         <price>18900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="21" available="true">
-        <url>https://mongcook.com/producto/chop-suey-vegetariano-trio</url>
         <name>Chop suey vegetariano, Trio</name>
         <price>47900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="22" available="true">
-        <url>https://mongcook.com/producto/chop-suey-vegetariano-familiar</url>
         <name>Chop suey vegetariano, Familiar</name>
         <price>64900</price>
-        <currencyId>COP</currencyId>
         <categoryId>6</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="23" available="true">
-        <url>https://mongcook.com/producto/chow-fan-camarones-personal</url>
         <name>Chow fan camarones, Personal</name>
         <price>22900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/696e6149145fd-47.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="24" available="true">
-        <url>https://mongcook.com/producto/chow-fan-camarones-trio</url>
         <name>Chow fan camarones, Trio</name>
         <price>60900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/696e6149145fd-47.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="25" available="true">
-        <url>https://mongcook.com/producto/chow-fan-camarones-familiar</url>
         <name>Chow fan camarones, Familiar</name>
         <price>74900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/696e6149145fd-47.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="26" available="true">
-        <url>https://mongcook.com/producto/chow-fan-especial-personal</url>
         <name>Chow fan especial, Personal</name>
         <price>21900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7864ba9e32-76.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="27" available="true">
-        <url>https://mongcook.com/producto/chow-fan-especial-trio</url>
         <name>Chow fan especial, Trio</name>
         <price>51900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7864ba9e32-76.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="28" available="true">
-        <url>https://mongcook.com/producto/chow-fan-especial-familiar</url>
         <name>Chow fan Especial, Familiar</name>
         <price>68900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7864ba9e32-76.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="29" available="true">
-        <url>https://mongcook.com/producto/chow-fan-especial-mega-familiar</url>
         <name>Chow fan Especial, Mega familiar</name>
         <price>99900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7864ba9e32-76.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="30" available="true">
-        <url>https://mongcook.com/producto/chow-fan-pollo-personal</url>
         <name>Chow fan pollo, Personal</name>
         <price>15900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e78877e144e-74.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="31" available="true">
-        <url>https://mongcook.com/producto/chow-fan-pollo-trio</url>
         <name>Chow fan pollo, Trio</name>
         <price>47900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e78877e144e-74.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="32" available="true">
-        <url>https://mongcook.com/producto/chow-fan-pollo-familiar</url>
         <name>Chow fan pollo, Familiar</name>
         <price>59900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e78877e144e-74.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="33" available="true">
-        <url>https://mongcook.com/producto/chow-fan-pollo-mega-familiar</url>
         <name>Chow fan pollo, Mega familiar</name>
         <price>86900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e78877e144e-74.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="34" available="true">
-        <url>https://mongcook.com/producto/chow-fan-valenciano-personal</url>
         <name>Chow fan Valenciano, Personal</name>
         <price>23900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7870f02e90-87.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="35" available="true">
-        <url>https://mongcook.com/producto/chow-fan-valenciano-trio</url>
         <name>Chow fan Valenciano, Trio</name>
         <price>61900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7870f02e90-87.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="36" available="true">
-        <url>https://mongcook.com/producto/chow-fan-valenciano-familiar</url>
         <name>Chow fan Valenciano, Familiar</name>
         <price>79900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7870f02e90-87.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="37" available="true">
-        <url>https://mongcook.com/producto/chow-fan-valenciano-mega-familiar</url>
         <name>Chow fan Valenciano, Mega familiar</name>
         <price>116900</price>
-        <currencyId>COP</currencyId>
         <categoryId>7</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7870f02e90-87.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="38" available="true">
-        <url>https://mongcook.com/producto/chow-mein-camarones-trio</url>
         <name>Chow Mein camarones, Trio</name>
         <price>62900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="39" available="true">
-        <url>https://mongcook.com/producto/chow-mein-camarones-personal</url>
         <name>Chow Mein camarones, Personal</name>
         <price>23900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="40" available="true">
-        <url>https://mongcook.com/producto/chow-mein-camarones-familiar</url>
         <name>Chow Mein camarones, Familiar</name>
         <price>82900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="41" available="true">
-        <url>https://mongcook.com/producto/chow-mein-especial-trio</url>
         <name>Chow mein Especial, Trio</name>
         <price>57900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e787a69c1db-82.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="42" available="true">
-        <url>https://mongcook.com/producto/chow-mein-especial-personal</url>
         <name>Chow mein Especial, Personal</name>
         <price>22900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e787a69c1db-82.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="43" available="true">
-        <url>https://mongcook.com/producto/chow-mein-especial-familiar</url>
         <name>Chow mein Especial, Familiar</name>
         <price>84900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e787a69c1db-82.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="44" available="true">
-        <url>https://mongcook.com/producto/chow-mein-trio</url>
         <name>Chow Mein, Trio</name>
         <price>48900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e78a121cb02-84.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="45" available="true">
-        <url>https://mongcook.com/producto/chow-mein-personal</url>
         <name>Chow Mein, Personal</name>
         <price>18900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e78a121cb02-84.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="46" available="true">
-        <url>https://mongcook.com/producto/chow-mein-familiar</url>
         <name>Chow Mein, Familiar</name>
         <price>63900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e78a121cb02-84.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="47" available="true">
-        <url>https://mongcook.com/producto/chow-mein-vegetariano-personal</url>
         <name>Chow Mein Vegetariano, Personal</name>
         <price>17900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="48" available="true">
-        <url>https://mongcook.com/producto/chow-mein-vegetariano-trio</url>
         <name>Chow Mein Vegetariano, Trio</name>
         <price>47900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="49" available="true">
-        <url>https://mongcook.com/producto/chow-mein-vegetariano-familiar</url>
         <name>Chow Mein Vegetariano, Familiar</name>
         <price>64900</price>
-        <currencyId>COP</currencyId>
         <categoryId>8</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="50" available="true">
-        <url>https://mongcook.com/producto/coca-cola-250-ml</url>
         <name>Coca cola, 250 ml</name>
         <price>4500</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8de4086ce6-112.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="51" available="true">
-        <url>https://mongcook.com/producto/coca-cola-400-ml</url>
         <name>Coca cola, 400 ml</name>
         <price>6500</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8de4086ce6-112.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="52" available="true">
-        <url>https://mongcook.com/producto/coca-cola-1.5-litros</url>
         <name>Coca cola, 1.5 litros</name>
         <price>10900</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8de4086ce6-112.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="53" available="true">
-        <url>https://mongcook.com/producto/combo-1---valenciano</url>
         <name>Combo 1 - Valenciano</name>
         <price>26500</price>
-        <currencyId>COP</currencyId>
         <categoryId>9</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e78282b78ca-55.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="54" available="true">
-        <url>https://mongcook.com/producto/combo-2---chow-fan-especial</url>
         <name>Combo 2 - Chow fan especial</name>
         <price>29500</price>
-        <currencyId>COP</currencyId>
         <categoryId>9</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7830f1b456-56.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="55" available="true">
-        <url>https://mongcook.com/producto/combo-3-chop-suey-especial</url>
         <name>Combo 3 Chop suey especial</name>
         <price>31500</price>
-        <currencyId>COP</currencyId>
         <categoryId>9</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e78327949a3-57.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="56" available="true">
-        <url>https://mongcook.com/producto/combo-4-chow-mein-especial</url>
         <name>Combo 4 Chow mein especial</name>
         <price>31500</price>
-        <currencyId>COP</currencyId>
         <categoryId>9</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e783436054e-58.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="57" available="true">
-        <url>https://mongcook.com/producto/combo-amigos</url>
         <name>combo amigos</name>
         <price>74500</price>
-        <currencyId>COP</currencyId>
         <categoryId>2</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e784e04f258-68.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="58" available="true">
-        <url>https://mongcook.com/producto/combo-arroz-vegetales-especial</url>
         <name>Combo Arroz Vegetales Especial</name>
         <price>33500</price>
-        <currencyId>COP</currencyId>
         <categoryId>9</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e950dfd28b0-126.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="59" available="true">
-        <url>https://mongcook.com/producto/combo-famiamigos</url>
         <name>Combo famiamigos</name>
         <price>90500</price>
-        <currencyId>COP</currencyId>
         <categoryId>2</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e93e3c795f4-124.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="60" available="true">
-        <url>https://mongcook.com/producto/combo-familiar</url>
         <name>Combo Familiar</name>
         <price>99500</price>
-        <currencyId>COP</currencyId>
         <categoryId>2</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7853e26d46-71.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="61" available="true">
-        <url>https://mongcook.com/producto/cuatro-400-ml</url>
         <name>Cuatro 400 ml</name>
         <price>5500</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8df1ebfe15-107.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="62" available="true">
-        <url>https://mongcook.com/producto/deditos-de-pollo</url>
         <name>Deditos de pollo</name>
-        <price>13900</price>
-        <currencyId>COP</currencyId>
+        <price>15900</price>
         <categoryId>5</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69497c88073ea-deditos-de-pollo---entrada.jpeg</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="63" available="true">
-        <url>https://mongcook.com/producto/fuze-tea-limon</url>
         <name>Fuze tea, Limon</name>
         <price>6500</price>
-        <currencyId>COP</currencyId>
         <categoryId>10</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e91f797f3c4-7702535016688.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="64" available="true">
-        <url>https://mongcook.com/producto/fuze-tea-durazno</url>
         <name>Fuze tea, Durazno</name>
         <price>6500</price>
-        <currencyId>COP</currencyId>
         <categoryId>10</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e91f797f3c4-7702535016688.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="65" available="true">
-        <url>https://mongcook.com/producto/fuze-tea-mango-manzanilla</url>
         <name>Fuze tea, Mango Manzanilla</name>
         <price>6500</price>
-        <currencyId>COP</currencyId>
         <categoryId>10</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e91f797f3c4-7702535016688.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="66" available="true">
-        <url>https://mongcook.com/producto/fuze-tea-manzanilla-limonaria</url>
         <name>Fuze tea, Manzanilla limonaria</name>
         <price>6500</price>
-        <currencyId>COP</currencyId>
         <categoryId>10</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e91f797f3c4-7702535016688.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="67" available="true">
-        <url>https://mongcook.com/producto/kola-roman</url>
         <name>Kola roman</name>
         <price>5500</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8defc6af59-117.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="68" available="true">
-        <url>https://mongcook.com/producto/ling</url>
         <name>Ling</name>
         <price>28900</price>
-        <currencyId>COP</currencyId>
         <categoryId>11</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e93e6f68097-122.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="69" available="true">
-        <url>https://mongcook.com/producto/lumpias-1-unidad</url>
         <name>Lumpias, 1 unidad</name>
         <price>5500</price>
-        <currencyId>COP</currencyId>
         <categoryId>5</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/696e5bc50cf0a-32.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="70" available="true">
-        <url>https://mongcook.com/producto/lumpias-2-unidades</url>
         <name>Lumpias, 2 unidades</name>
         <price>9900</price>
-        <currencyId>COP</currencyId>
         <categoryId>5</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/696e5bc50cf0a-32.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="71" available="true">
-        <url>https://mongcook.com/producto/ming</url>
         <name>Ming</name>
         <price>31900</price>
-        <currencyId>COP</currencyId>
         <categoryId>11</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e93da1dc216-121.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="72" available="true">
-        <url>https://mongcook.com/producto/mong</url>
         <name>Mong</name>
         <price>25900</price>
-        <currencyId>COP</currencyId>
         <categoryId>11</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69dd5c3b4945c-combo-para-tardear-modificado-(post-para-instagram-(45)).png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="73" available="true">
-        <url>https://mongcook.com/producto/mong-express-chow-fan-especial</url>
         <name>Mong Express, Chow fan especial</name>
         <price>21900</price>
-        <currencyId>COP</currencyId>
         <categoryId>11</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e94fdf9e994-60.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="74" available="true">
-        <url>https://mongcook.com/producto/mong-express-chop-suey-pollo</url>
         <name>Mong Express, Chop suey pollo</name>
         <price>21900</price>
-        <currencyId>COP</currencyId>
         <categoryId>11</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e94fdf9e994-60.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="75" available="true">
-        <url>https://mongcook.com/producto/papas-a-la-francesa</url>
         <name>Papas a la francesa</name>
         <price>5500</price>
-        <currencyId>COP</currencyId>
         <categoryId>4</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e93ebcaf2f8-120.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="76" available="true">
-        <url>https://mongcook.com/producto/pasta</url>
         <name>Pasta</name>
         <price>5500</price>
-        <currencyId>COP</currencyId>
         <categoryId>4</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="77" available="true">
-        <url>https://mongcook.com/producto/pollo</url>
         <name>pollo</name>
         <price>7500</price>
-        <currencyId>COP</currencyId>
         <categoryId>4</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="78" available="true">
-        <url>https://mongcook.com/producto/pollo-a-la-naranja</url>
         <name>Pollo a la naranja</name>
         <price>8500</price>
-        <currencyId>COP</currencyId>
         <categoryId>4</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="79" available="true">
-        <url>https://mongcook.com/producto/premio-400-ml</url>
         <name>Premio 400 ml</name>
         <price>5500</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8de8327525-102.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="80" available="true">
-        <url>https://mongcook.com/producto/sprite-400-ml</url>
         <name>Sprite 400 ml</name>
         <price>5500</price>
-        <currencyId>COP</currencyId>
         <categoryId>1</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e8deb29cc9a-105.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="81" available="true">
-        <url>https://mongcook.com/producto/sunkee</url>
         <name>sunkee</name>
         <price>28900</price>
-        <currencyId>COP</currencyId>
         <categoryId>11</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e7858f2fa0b-62.png</picture>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="82" available="true">
-        <url>https://mongcook.com/producto/vegetales</url>
         <name>Vegetales</name>
         <price>6900</price>
-        <currencyId>COP</currencyId>
         <categoryId>4</categoryId>
         <vendor>Mongcook</vendor>
       </offer>
       <offer id="83" available="true">
-        <url>https://mongcook.com/producto/wong---menú-infantil</url>
         <name>Wong - menú infantil</name>
         <price>18900</price>
-        <currencyId>COP</currencyId>
         <categoryId>11</categoryId>
         <picture>https://s3-o1.retailcrm.tech/eu-central-1/retailcrm-o1/mongcook-simla-com-d35efd88f1052dcf4876164f8428df00/product/69e93fa8980ba-123.png</picture>
         <vendor>Mongcook</vendor>
